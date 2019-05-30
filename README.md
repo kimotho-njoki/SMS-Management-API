@@ -1,5 +1,5 @@
 # SMS Management API
-Hapi JS API for an SMS management application.
+Hapi JS API for an SMS management application. <br>
 The SMS management application enables users to create contacts and send/receive messages to/from other contacts.
 
 ## Documentation
@@ -11,7 +11,8 @@ The documentation of this API can be found at:
 - `npm install` dependencies in package.json
 - Create a database and add the user, password and database name to `knex.js`
 - Run the database migrations with knex migrate:make setup
-- Run npm start to start the application.
+- Run npm start to start the application
+- You can use Postman to run the endpoints
 
 
 #### Application End points
