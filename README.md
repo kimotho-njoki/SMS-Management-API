@@ -4,7 +4,7 @@ The SMS management application enables users to create contacts and send/receive
 
 ## Documentation
 The documentation of this API can be found at:
-> http://docs.shoppinglistapi6.apiary.io/#
+> https://smsmanagementapi.docs.apiary.io/#
 
 ## Getting Started
 - Clone the repository onto your machine
